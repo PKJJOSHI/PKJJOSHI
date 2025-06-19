@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-🎓 I’m currently pursuing **B.E. in Computer Science** (2022–2025) at **Prof. Ram Meghe College of Engineering & Management, Amravati**  
+🎓 I have completed my **B.E. in Computer Science** (2021–2025) at **Prof. Ram Meghe College of Engineering & Management, Amravati**  
 🧠 I love working on **Machine Learning, Data Visualization, and Real-time Applications**  
 🌱 Currently exploring: **Deep Learning**, **Tableau**, and **Power BI**
 
