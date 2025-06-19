@@ -1,17 +1,37 @@
-# 👋 Hi, I'm Prashant Joshi
+<h1 align="center">Hi 👋, I'm Prashant Joshi</h1>
+<h3 align="center">Aspiring Data Analyst | ML Enthusiast | Python Developer</h3>
 
-🎓 Recent Graduate | 📊 Aspiring Data Analyst | 🤖 Machine Learning Enthusiast  
-I love turning raw data into beautiful visualizations and meaningful insights.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-## 🛠️ Skills
-- Python, SQL, Excel
-- Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- Jupyter, Google Colab, Tableau
+<p align="center">
+  <a href="mailto:princejoshi902226@gmail.com">
+    <img src="https://img.shields.io/badge/Email-princejoshi902226@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/prashantjoshi2220">
+    <img src="https://img.shields.io/badge/LinkedIn-Prashant%20Joshi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/PKJJOSHI">
+    <img src="https://img.shields.io/badge/GitHub-PKJJOSHI-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-## 📈 Projects
-- [🧠 Mental Stress Detection](https://github.com/PKJJOSHI/Machine-Learning-Framework-for-the-Detection-of-Mental-Stress-main)
-- [📊 Restaurant Sales Analysis](https://github.com/PKJJOSHI/Restaurants-Analysis)
+---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prashantjoshi2220)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:princejoshi902226@gmail.com)
+## 🚀 About Me
+
+🎓 I’m currently pursuing **B.E. in Computer Science** (2022–2025) at **Prof. Ram Meghe College of Engineering & Management, Amravati**  
+🧠 I love working on **Machine Learning, Data Visualization, and Real-time Applications**  
+🌱 Currently exploring: **Deep Learning**, **Tableau**, and **Power BI**
+
+---
+
+## 💻 Technical Skills
+
+```python
+Languages     : Python, JavaScript, Java, SQL, HTML/CSS
+ML/AI Tools   : TensorFlow, Keras, Scikit-learn, OpenCV
+Libraries     : Pandas, NumPy, Matplotlib, Seaborn
+Visualization : Power BI, Tableau, Excel
+Tools & IDEs  : Git, GitHub, VS Code
