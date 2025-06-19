@@ -9,7 +9,7 @@ I love turning raw data into beautiful visualizations and meaningful insights.
 - Jupyter, Google Colab, Tableau
 
 ## 📈 Projects
-- [🧠 Mental Stress Detection](https://github.com/PKJJOSHI/Mental-Stress-Detection)
+- [🧠 Mental Stress Detection](https://github.com/PKJJOSHI/Machine-Learning-Framework-for-the-Detection-of-Mental-Stress-main)
 - [📊 Restaurant Sales Analysis](https://github.com/PKJJOSHI/Restaurants-Analysis)
 
 ## 📫 Connect With Me
