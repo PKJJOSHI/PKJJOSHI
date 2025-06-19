@@ -13,5 +13,5 @@ I love turning raw data into beautiful visualizations and meaningful insights.
 - [📊 Restaurant Sales Analysis](https://github.com/PKJJOSHI/Restaurants-Analysis)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin:https://www.linkedin.com/in/prashantjoshi2220)](https://www.linkedin.com/in/yourlinkedin/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prashantjoshi2220)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:princejoshi902226@gmail.com)
